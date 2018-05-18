@@ -65,7 +65,7 @@ external: {
 #### async
 
 By default the external files will be loaded synchronously. This avoids conflicts with other plugins.
-You can activate asynchronous loading with this option.
+You can deactivate asynchronous loading with this option.
 
 #### mapAttributes
 
